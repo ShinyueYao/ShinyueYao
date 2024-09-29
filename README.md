@@ -12,6 +12,7 @@ I am currently working on **Embodied Intelligence** and other topics related to 
 ### 💡 Projects with My Work
 
 - [**Upcoming**](): Building LLM to solve robotic assembly problem.
+- [**GeoKurumi**](https://github.com/ShinyueYao/GeoKurumi): 3D Model Displayer based on OpenGL
 
 ### 📚 Tech Articles and Talks 
 
