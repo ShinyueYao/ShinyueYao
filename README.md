@@ -5,7 +5,7 @@
 Hi guys, I'm **Xinyue(Kaidon) Yao**, a senior student at Zhejiang University majoring in Robotics Engineering.  
 I am currently working on **Embodied Intelligence** and other topics related to **Robotics**. Feel free to contact me if you have same interesting or some questions!
 
-### 📫 Contact Me on Social Media
+### 📫 Contact Me
 
  ✉️ [Email](mailto:xinyue_yao@outlook.com) | 💬 [Issue](https://github.com/ShinyueYao/ShinyueYao/issues/me) 
 
