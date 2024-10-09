@@ -10,6 +10,7 @@ I am currently working on **Embodied Intelligence** and other topics related to 
  ✉️ [Email](mailto:xinyue_yao@outlook.com) | 💬 [Issue](https://github.com/ShinyueYao/ShinyueYao/issues/me) 
 
 ### 💡 Projects with My Work
+#### Selected Papers
 
 - [**Upcoming**](): Building LLM to solve robotic assembly problem.
 
