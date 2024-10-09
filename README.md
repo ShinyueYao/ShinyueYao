@@ -14,7 +14,7 @@ I am currently working on **Embodied Intelligence** and other topics related to 
 
 - [**Upcoming**](): Building LLM to solve robotic assembly problem.
 
-#### Selected Course Project
+#### Selected Course Projects
 - [**GeoKurumi**](https://github.com/ShinyueYao/GeoKurumi): 3D Model Displayer based on OpenGL
 - [**CSE3022M**](https://github.com/ShinyueYao/ZJU_CSE3022M/tree/master): Machine learning algorithm implementation for course "Introduction to Big Data Analytics and Application"
 
