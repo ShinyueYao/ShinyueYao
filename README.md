@@ -17,6 +17,7 @@ I am currently working on **Embodied Intelligence** and other topics related to 
 #### Selected Course Projects
 - [**GeoKurumi**](https://github.com/ShinyueYao/GeoKurumi): 3D Model Displayer based on OpenGL
 - [**AnsBob**](https://github.com/ShinyueYao/AnsBob): Answering LLM Science Exam Based on Bert Model
+- [**LLM Course Project**](https://github.com/ShinyueYao/ZJU_LLM_Project): Leveraging Large Language Model for Data Analysis
 ### 📚 Tech Articles and Talks 
 
 You can get all my post articles in my website📝 [**XinyueYao**](https://shinyueyao.github.io/). 
