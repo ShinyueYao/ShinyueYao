@@ -22,7 +22,7 @@ I am currently working on **Robotics** and some topics related to **Computer Gra
 
 #### Selected Course Projects
 - [**GeoKurumi**](https://github.com/ShinyueYao/GeoKurumi): 3D Model Displayer based on OpenGL
-- [**AnsBob**](https://github.com/ShinyueYao/AnsBob): Answering LLM Science Exam Based on Bert Model
+- [**LLM_Science_Exam**](https://github.com/llybyw/LLM-Science-Exam): Answering LLM Science Exam Based on Bert Model
 - [**LLM Course Project**](https://github.com/ShinyueYao/ZJU_LLM_Project): Leveraging Large Language Model for Data Analysis
 ### 📚 Tech Articles and Talks 
 
