@@ -12,8 +12,8 @@ I am currently working on **Robotics** and some topics related to **Computer Gra
 ### 💡 Projects with My Work
 #### Selected Papers
 
-- [**IROS2025**](): GAT-Grasp: Gesture-Driven Affordance Transfer for Task-Aware Robotic Grasping. Ruixiang Wang$^*$
-, Huayi Zhou$^∗$
+- [**GAT-Grasp: Gesture-Driven Affordance Transfer for Task-Aware Robotic Grasping.**](https://arxiv.org/pdf/2503.06227):  Ruixiang Wang*
+, Huayi Zhou∗
 , **Xinyue Yao**
 , Guiliang Liu
 , Kui Jia
